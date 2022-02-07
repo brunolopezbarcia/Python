@@ -17,3 +17,7 @@ python --version
 ```
 
 Si descubre que no tiene Python instalado en su ordenador, puede descargarlo desde el siguiente sitio web: **https://www.python.org/**
+
+##
+
+### Inicio Rapido de Python
