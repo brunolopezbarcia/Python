@@ -57,7 +57,6 @@ Felicitaciones, ya has escrito y ejecutado su primer programa en python.
 
 #
 
-#
 
 ### La linea de comandos de Python
 
