@@ -38,10 +38,8 @@ Es usado para:
 - Python usa nuevas líneas para completar un comando, a diferencia de otros lenguajes de programación que a menudo usan punto y coma o paréntesis.
 - Python se basa en la sangría, usando espacios en blanco, para definir el alcance; como el alcance de los bucles, funciones y clases. Otros lenguajes de programación a menudo usan corchetes para este propósito.
 
-      ```python
-
-  print("Hola Mundo")
-
+```python
+ print("Hola Mundo")
 ```
 
-```
+
