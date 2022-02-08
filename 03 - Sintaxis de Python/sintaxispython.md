@@ -62,11 +62,11 @@ Tienes que usar la misma cantidad de espacios ene el mismo bloque de codigo, de 
 ```python
 if  5 > 2;
 	print("5 es mayor que 2")
-			print("Cinco es mayor que dos")
-```
+		    print("Cinco es mayor que dos")
+``` 
 
 
-------------
+#
 
 ### Variables de Python
 
@@ -82,7 +82,7 @@ Python no tiene ningun comando para declarar una variable.
 
 Aprenderemos mas sobre variables en el tema de Variables de Python.
 
---------
+#
 
 ### Comentarios
 
