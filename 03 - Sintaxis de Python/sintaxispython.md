@@ -24,12 +24,11 @@ Mientras que en otros lenguajes de programacion la sangria en el codigo es solo 
 
 Python usa sangria para indicar un bloque de codigo.
 
-
-```
 ### EJEMPLO
-````python
+
+```python
 if 5 > 2:
     print("Cinco es mayor que dos")
-````
 ```
+
 
