@@ -16,13 +16,13 @@ print("Comenzando entrenamiento...")
 historial = modelo.fit(celsius, fahrenheit, epochs=1000, verbose=False)
 print("Modelo entrenado!")
 
-import matplotlib.pyplot as plt
-plt.xlabel("# Epoca")
-plt.ylabel("Magnitud de pérdida")
-plt.plot(historial.history["loss"])
+#import matplotlib.pyplot as plt
+#plt.xlabel("# Epoca")
+#plt.ylabel("Magnitud de pérdida")
+#plt.plot(historial.history["loss"])
 
 print("Hagamos una predicción!")
-resultado = modelo.predict([100.0])
+resultado = modelo.predict([10.0])
 print("El resultado es " + str(resultado) + " fahrenheit!")
 
 print("Variables internas del modelo")
