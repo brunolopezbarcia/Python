@@ -13,6 +13,9 @@
     -  [07 - Asignar valores multiples](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/07%20-%20Asignar%20valores%20multiples.md)
     -  [08 - Variables de Salida](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/08%20-%20Variables%20de%20Salida.md)
 
+    -  [09 - Variables Globales](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/08%20-%20Variables%20Globales.md)
+    -  [10 - Variables Globales](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/08%20-%20Variables%20Globales.md)
+    -  [11 - Numeros de Python](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/08%20-%20Variables%20Globales.md)
 -  [02 - MANEJO DE ARCHIVOS](https://github.com/brunolopezbarcia/Python/tree/main/02%20-%20MANEJO%20DE%20ARCHIVOS)
     -  [01 - Manejo de archivos Python](https://github.com/brunolopezbarcia/Python/blob/main/02%20-%20MANEJO%20DE%20ARCHIVOS/01%20-%20Manejo%20de%20archivos%20Python.md)
 
