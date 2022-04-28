@@ -17,7 +17,7 @@
     -  [01 - Manejo de archivos Python](https://github.com/brunolopezbarcia/Python/blob/main/02%20-%20MANEJO%20DE%20ARCHIVOS/01%20-%20Manejo%20de%20archivos%20Python.md)
 
 - [12 - PROYECTOS MIOS](https://github.com/brunolopezbarcia/Python/tree/main/12%20-%20PROYECTOS%20MIOS)
-    -[Nombre+NumeroRandom](https://github.com/brunolopezbarcia/Python/tree/main/12%20-%20PROYECTOS%20MIOS/Nombre%2BNumeroRandom)
-    -[Suma](https://github.com/brunolopezbarcia/Python/tree/main/12%20-%20PROYECTOS%20MIOS/Suma)
-    -[paroimpar](https://github.com/brunolopezbarcia/Python/tree/main/12%20-%20PROYECTOS%20MIOS/paroimpar)
+    - [Nombre+NumeroRandom](https://github.com/brunolopezbarcia/Python/tree/main/12%20-%20PROYECTOS%20MIOS/Nombre%2BNumeroRandom)
+    - [Suma](https://github.com/brunolopezbarcia/Python/tree/main/12%20-%20PROYECTOS%20MIOS/Suma)
+    - [paroimpar](https://github.com/brunolopezbarcia/Python/tree/main/12%20-%20PROYECTOS%20MIOS/paroimpar)
 
