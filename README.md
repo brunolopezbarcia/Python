@@ -16,6 +16,9 @@
     -  [10 - Variables Globales](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/10%20-%20Tipos%20de%20Datos%20de%20Python.md)
     -  [11 - Numeros de Python](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/11%20-%20Numeros%20de%20Python.md)
     -  [12 - Fundicion de Python](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/12%20-%20Fundicion%20de%20Python.md)
+    -  [13 - Cadenas](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/13%20-%20Cadenas.md)
+    -  [14 - Cortar Cadenas](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/14%20-%20Cortar%20Cadenas.md)
+    -  [15 - Modificar Cadenas](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/15%20-%20Modificar%20Cadenas.md)
     
 -  [02 - MANEJO DE ARCHIVOS](https://github.com/brunolopezbarcia/Python/tree/main/02%20-%20MANEJO%20DE%20ARCHIVOS)
     -  [01 - Manejo de archivos Python](https://github.com/brunolopezbarcia/Python/blob/main/02%20-%20MANEJO%20DE%20ARCHIVOS/01%20-%20Manejo%20de%20archivos%20Python.md)
