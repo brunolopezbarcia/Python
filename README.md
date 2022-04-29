@@ -3,7 +3,7 @@
 
 ## Indice
 
-- [01 - TUTORIAL DE PYTHON](01 - TUTORIAL DE PYTHON)
+- [01 - TUTORIAL DE PYTHON](./01 - TUTORIAL DE PYTHON/)
     -  [01 - Introducción](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/01%20-%20Introduccion.md)
     -  [02 - Instalación](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/02%20-%20Instalacion.md)
     -  [03 - Sintaxis](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/03%20-%20Sintaxis.md)
