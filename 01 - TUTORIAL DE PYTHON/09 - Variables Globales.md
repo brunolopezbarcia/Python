@@ -9,6 +9,7 @@ Las variables globales pueden ser utilizadas por todos, tanto dentro como fuera 
 ### Ejemplo
 
 Crear una variable fuera de una funcion y usarla dentro de la función.
+
 ```python
 x = "awesome"
 
@@ -23,6 +24,7 @@ Si crea una variable con el mismo nombre denro de la función, esta variable ser
 ### Ejemplo
 
 Crear una variable dentro de una función, con el mismo nombre que la variable global
+
 ```python
 x = "awesome"
 
@@ -49,14 +51,13 @@ Si usa la palabra clave `global`, la variable pertenece al ámbito global:
 def myfunc():
     global x
     x = "fantastic"
-    
+
 myfunc()
 
 print("Python is " + x)
 ```
 
 Ademas, usa la palabra `global` si desea cambir una variable global dentro de una función
-
 
 ### Ejemplo
 
@@ -68,7 +69,7 @@ x = "awesome"
 def myfunc():
     global x
     x = "fantastic"
-    
+
 myfunc()
 
 print("Python is " + x)

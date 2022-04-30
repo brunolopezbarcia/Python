@@ -12,6 +12,7 @@ print(x)
 print(y)
 print(z)
 ```
+
 ## Un valor para múltiples variables
 
 Se puede asignar el _mismo_ valor a multiples variables en una sola linea:

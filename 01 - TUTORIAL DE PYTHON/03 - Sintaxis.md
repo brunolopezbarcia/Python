@@ -9,11 +9,12 @@ Como aprendimos en el tema anterior, la sintaxis de Python se puede ejecutar esc
 Hola Mundo
 ```
 
-O creando un archivo python en el servidor, usando la extension *.py* y ejecutandolo en la linea de comandos:
+O creando un archivo python en el servidor, usando la extension _.py_ y ejecutandolo en la linea de comandos:
 
 ```cmd
 C:\Users\Tu Nombre>python tufichero.py
 ```
+
 #
 
 ### Sangria de Python
@@ -46,11 +47,10 @@ El numero de espacios depende de ti como programador pero debe de ser al menos u
 
 ### EJEMPLO
 
-
 ```python
 if 5 > 2:
     print("Cinco es mayor que dos")
-    
+
 if 5 > 2:
         print("Cinco es mayor que dos")
 ```
@@ -63,8 +63,7 @@ Tienes que usar la misma cantidad de espacios ene el mismo bloque de codigo, de 
 if  5 > 2;
 	print("5 es mayor que 2")
 		    print("Cinco es mayor que dos")
-``` 
-
+```
 
 #
 
@@ -73,11 +72,14 @@ if  5 > 2;
 En python, las variables se crean cuando les asignas un valor:
 
 ### EJEMPLO
+
 Variables de Python:
+
 ```python
 x=5
 y="Hola Mundo"
 ```
+
 Python no tiene ningun comando para declarar una variable.
 
 Aprenderemos mas sobre variables en el tema de Variables de Python.
@@ -91,7 +93,9 @@ Python tiene la capacidad de comentar con el proposito de la documentacion en el
 Los comentarios empieza con un # y Python representa el resto de la linea como un comentario:
 
 ### EJEMPLO
+
 Comentarios en Python:
+
 ```python
 #Esto es un comentario.
 print("Hola Mundo")

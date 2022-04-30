@@ -10,6 +10,7 @@ La función de Python `print()` se usa a menudo para generar variables
 x = "Python is awesome"
 print(x)
 ```
+
 La función `print()`, genera múltiples varibales, separadas por comas:
 
 ### Ejemplo
@@ -20,7 +21,8 @@ y = "is"
 z = "awesome"
 print(x, y, z)
 ```
-Tambien se puede usar el *+* como operador para genera multiples variables:
+
+Tambien se puede usar el _+_ como operador para genera multiples variables:
 
 ### Ejemplo
 
@@ -31,10 +33,9 @@ z = "awesome"
 print(x + y + z)
 ```
 
-Observe el carácter de espacio después de *"Python "* y *"is "*, sin ellos el resultado sería *"Pythonisawesome"*.
+Observe el carácter de espacio después de _"Python "_ y _"is "_, sin ellos el resultado sería _"Pythonisawesome"_.
 
-
-Para numeros, el caracter *+* funciona como un operador matematico:
+Para numeros, el caracter _+_ funciona como un operador matematico:
 
 ### Ejemplo
 
@@ -44,7 +45,7 @@ y = 10
 print(x + y)
 ```
 
-En la función `print()`, cuando intenta combinar una cadena y un numero con el operador *+*, Python da un error:
+En la función `print()`, cuando intenta combinar una cadena y un numero con el operador _+_, Python da un error:
 
 ### Ejemplo
 

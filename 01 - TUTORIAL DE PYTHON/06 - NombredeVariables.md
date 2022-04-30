@@ -6,7 +6,7 @@ Una variable puede tener un nombre corto (como x o y) o un nombre mas descriptiv
 
 - Un nombre de variable debe de comenzar con una letra o el caracter de subrayado.
 - Un nombre de variable no puede comenzar con un numero.
-- Un nombre de variable solo puede contener caracteres alfanumericos y guiones bajos (Az, 0-9 y _)
+- Un nombre de variable solo puede contener caracteres alfanumericos y guiones bajos (Az, 0-9 y \_)
 - Los nombres de varibales distiguen entre mayusculas y minusculas (edad, Edad y EDAD son tres variables diferentes)
 
 ### Ejemplo
@@ -30,9 +30,9 @@ Nombre de variables ilegales:
 2myvar = "John"
 my-var = "John"
 my var = "John"
-````
+```
 
-*Recuerda que los nombres de variables distiguen entre mayusculas y minusculas*
+_Recuerda que los nombres de variables distiguen entre mayusculas y minusculas_
 
 ## Nombres de variables de varias palabras
 
@@ -46,7 +46,7 @@ Cada palabra, excepto la primera, comienza con una letra mayuscula.
 
 ```python
 myVariableName = "John"
-````
+```
 
 ### Caso Pascual
 
@@ -54,7 +54,7 @@ Cada palabra comienza con una letra mayuscula:
 
 ```python
 MyVariableName = "John"
-````
+```
 
 ### Caso de serpiente
 
@@ -62,4 +62,4 @@ Cada palabra esta separada por un caracter de subrayado:
 
 ```python
 my_variable_name = "John"
-````
+```

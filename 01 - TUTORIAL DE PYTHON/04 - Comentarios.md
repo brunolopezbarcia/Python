@@ -16,6 +16,7 @@ Los comentarios comienzan con un #, y Python los ignorara:
 #Esto es un comentarios
 print("Hola mundo")
 ```
+
 Los comentarios se pueden colocar al final de una linea y Python ignorara el resto de la linea:
 
 ### EJEMPLO
@@ -34,7 +35,6 @@ print("Saludos amigo")
 ```
 
 #
-
 
 ### Comentarios de varias lineas
 
@@ -65,4 +65,5 @@ mas de una linea
 """
 print("Hola Mundo")
 ```
+
 Siempre que la cadena no este asignada a una variable, Python leera el codigo, pero luego lo ignorara y habra realizado un comentario de varias lineas.

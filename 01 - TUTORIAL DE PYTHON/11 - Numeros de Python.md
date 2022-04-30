@@ -4,9 +4,9 @@
 
 Hay tres tipos de numéricos en Python:
 
-- ***int***
-- ***float***
-- ***complex***
+- **_int_**
+- **_float_**
+- **_complex_**
 
 Las variables de tipo numérico se crean cuando les asignas un valor:
 
@@ -100,7 +100,7 @@ print(type(z))
 
 ## Conversion de tipo
 
-Puede convertir de un tipo a otro con los metodos ***int()***, ***float()*** y ***complex()***.
+Puede convertir de un tipo a otro con los metodos **_int()_**, **_float()_** y **_complex()_**.
 
 ### Ejemplo
 
@@ -143,4 +143,4 @@ import random
 print(random.randrange(1, 10))
 ```
 
-En nuestra Referencia al modulo aleatorio ***(link disponible mas adelante)***, aprendera más sobre el módulo aleatorio.
+En nuestra Referencia al modulo aleatorio **_(link disponible mas adelante)_**, aprendera más sobre el módulo aleatorio.

@@ -18,7 +18,6 @@ txt = "We are the so-called "Vikings" from the north."
 
 Para solucionar este problema, utilice el caracter de escape `\`:
 
-
 ### Ejemplo
 
 El caracter de escape le permite usar comillas dobles cuando normalmente no se pueden usar:
@@ -31,17 +30,16 @@ txt = "We are the so-called \"Vikings\" from the north."
 
 Otros caracteres de escape son:
 
-| Codigo|| Resultado       |
-| --    | --      | --     |
-| \'    || Single Quote    |
-| \\    || Backslash       |
-| \n    || New Line        |
-| \r    || Carriage Return |
-| \t    || Tab             |
-| \b    || Backspace       |
-| \f    || Form Feed       |
-| \v    || Vertical Tab    |
-| \ooo  || Octal           |
-| \xhh  || Hexadecimal     |
-| \uhhhh|| Unicode         |
-
+| Codigo | Resultado       |
+| ------ | --------------- |
+| \'     | Single Quote    |
+| \\     | Backslash       |
+| \n     | New Line        |
+| \r     | Carriage Return |
+| \t     | Tab             |
+| \b     | Backspace       |
+| \f     | Form Feed       |
+| \v     | Vertical Tab    |
+| \ooo   | Octal           |
+| \xhh   | Hexadecimal     |
+| \uhhhh | Unicode         |

@@ -41,5 +41,3 @@ Es usado para:
 ```python
  print("Hola Mundo")
 ```
-
-
