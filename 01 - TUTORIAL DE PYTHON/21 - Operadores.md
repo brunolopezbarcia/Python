@@ -99,11 +99,11 @@ Los operadores de membresia se utilizan para probar si una secuencia se presenta
 
 Los operadores se utilizan para comparar numeros(binarios):
 
-| Operador | Nombre                                            | Descripcion                                                                                             |
-| -------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| &        | AND                                               | Establece el bit en 1 si ambos bits son 1                                                               |
-| \\| OR   | Establece el bit en 1 si uno de los dos bits es 1 |
-| ^        | XOR                                               | Establece el bit en 1 si solo uno de los dos bits es 1                                                  |
-| ~        | NOT                                               | Invierte todos los bits                                                                                 |
-| <<       | Zero fill left shift                              | Shift left by pushing zeros in from the right and let the leftmost bits fall off                        |
-| >>       | Signed right shift                                | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off |
+| Operador | Nombre               | Descripcion                                                                                             |
+| -------- | -------------------- | ------------------------------------------------------------------------------------------------------- |
+| &        | AND                  | Establece el bit en 1 si ambos bits son 1                                                               |
+| \\|      | OR                   | Establece el bit en 1 si uno de los dos bits es 1                                                       |
+| ^        | XOR                  | Establece el bit en 1 si solo uno de los dos bits es 1                                                  |
+| ~        | NOT                  | Invierte todos los bits                                                                                 |
+| <<       | Zero fill left shift | Shift left by pushing zeros in from the right and let the leftmost bits fall off                        |
+| >>       | Signed right shift   | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off |
