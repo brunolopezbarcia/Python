@@ -55,4 +55,3 @@ _*NOTA:*_ Todos los metodos de cadena devuelven nuevos valores. No cambian la ca
 | translate()    | Reemplaza los caracteres de la cadena por los de la tabla.                    |
 | upper()        | Convierte la cadena a mayusculas.                                             |
 | zfill()        | Ajusta la cadena a una longitud de ancho dado.
-                                
