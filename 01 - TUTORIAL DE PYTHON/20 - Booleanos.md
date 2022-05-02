@@ -102,13 +102,12 @@ Un valor mas, u objeto en este caso, se evalua como `False`, y eso es si tiene u
 
 ### Ejemplo
 
-    
 ```python
 
 class MyClass:
     def __len__(self):
         return 0
-    
+
 obj = MyClass()
 print(bool(obj))
 ```
@@ -154,5 +153,3 @@ Compruebe si un objeto es un numero entero o no:
 x = 10
 print( isinstance(x, int))
 ```
-
-
