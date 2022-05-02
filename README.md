@@ -27,8 +27,8 @@ Este repositorio ira sobre mis avances en Python siguiendo el curso de W3Schools
   - [19 - Metodos de Cadena](01%20-%20TUTORIAL%20DE%20PYTHON/19%20-%20Metodos%20de%20Cadena.md)
   - [20 - Booleanos](01%20-%20TUTORIAL%20DE%20PYTHON/20%20-%20Booleanos.md)
   - [21 - Operadores](01%20-%20TUTORIAL%20DE%20PYTHON/21%20-%20Operadores.md)
-- [02 - MANEJO DE ARCHIVOS](https://github.com/brunolopezbarcia/Python/tree/main/02%20-%20MANEJO%20DE%20ARCHIVOS)
 
+- [02 - MANEJO DE ARCHIVOS](https://github.com/brunolopezbarcia/Python/tree/main/02%20-%20MANEJO%20DE%20ARCHIVOS)
   - [01 - Manejo de archivos Python](https://github.com/brunolopezbarcia/Python/blob/main/02%20-%20MANEJO%20DE%20ARCHIVOS/01%20-%20Manejo%20de%20archivos%20Python.md)
 
 - [12 - PROYECTOS MIOS](https://github.com/brunolopezbarcia/Python/tree/main/12%20-%20PROYECTOS%20MIOS)
