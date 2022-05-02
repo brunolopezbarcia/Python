@@ -21,6 +21,11 @@ Este repositorio ira sobre mis avances en Python siguiendo el curso de W3Schools
   - [13 - Cadenas](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/13%20-%20Cadenas.md)
   - [14 - Cortar Cadenas](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/14%20-%20Cortar%20Cadenas.md)
   - [15 - Modificar Cadenas](https://github.com/brunolopezbarcia/Python/blob/main/01%20-%20TUTORIAL%20DE%20PYTHON/15%20-%20Modificar%20Cadenas.md)
+  - [16 - Concatenación de Cabenas](01%20-%20TUTORIAL%20DE%20PYTHON/16%20-%20Concatenacion%20de%20Cadenas.md)
+  - [17 - Formato-Cadenas](01%20-%20TUTORIAL%20DE%20PYTHON/17%20-%20Formato-Cadenas.md)
+  - [18 - Caracteres de Escape](01%20-%20TUTORIAL%20DE%20PYTHON/18%20-%20Caracteres%20de%20Escape.md)
+  - [19 - Metodos de Cadena](01%20-%20TUTORIAL%20DE%20PYTHON/19%20-%20Metodos%20de%20Cadena.md)
+
 
 - [02 - MANEJO DE ARCHIVOS](https://github.com/brunolopezbarcia/Python/tree/main/02%20-%20MANEJO%20DE%20ARCHIVOS)
 
